@@ -1,2 +1,2 @@
-# avivhabersite
-My personal site
+# Aviv Haber
+Student | Software Engineer
